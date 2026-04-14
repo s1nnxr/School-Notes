@@ -1,0 +1,5 @@
+- /etc/passwd : Soubor s uživatelskými účty bez hesel
+- /etc/shadow : Soubor s hesly uživatelů
+- /etc/group : Soubor s informacemi o skupinách
+- /etc/sudoers : Soubor s nastavením oprávnění pro sudo
+- /etc/ssh/sshd_config : Konfigurační soubor pro SSH server

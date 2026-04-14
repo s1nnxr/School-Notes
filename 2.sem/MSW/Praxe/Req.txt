@@ -1,0 +1,1 @@
+pip install numpy scypy sympy matplotlib pandas PyQt5

@@ -1,0 +1,14 @@
+- Symetrická šifra
+- vstup: proud bitů/bytů
+    - tj. bit po bitu/byte po bytu
+- Transformace vstupního proudu dat
+    - binarní fuknce (nejčastěji XOR)
+    - pseudonáhodný proud bitu/bytů (key stream)
+- Vyhody
+- Rychlost o proti proudovým šifrám
+- jednodušší implementace
+- Nevýhody
+- Pokud se stejný klíč použije vícekrát, útočník může získat informace o původním textu
+- Pokud se klíč ztratí, není možné dešifrovat zprávu
+# sinchroní proudová šifra
+- proud pseudonáhodných čísel je generován nezávisle na vstupu
